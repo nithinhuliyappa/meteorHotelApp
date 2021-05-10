@@ -15,7 +15,7 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "faker": "^4.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^0.4.1",
     "simpl-schema": "^1.5.5"
   },
